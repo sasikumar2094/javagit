@@ -6,4 +6,8 @@ public class Sample {
 		System.out.println("object1");
 
 	}
+	private void object2() {
+		System.out.println("object2");
+
+	}
 }
